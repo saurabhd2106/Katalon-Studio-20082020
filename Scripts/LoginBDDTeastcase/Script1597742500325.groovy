@@ -17,3 +17,4 @@ import internal.GlobalVariable as GlobalVariable
 
 CucumberKW.runFeatureFile('./Include/features/LoginApplication.feature')
 
+println "I am happy"
